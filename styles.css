@@ -1,5 +1,5 @@
 h1 {
-    color:rgb(150, 0, 0);
+    color:rgb(175, 80, 80);
 }
 h2 {
     color:rgb(225, 225, 225);
@@ -8,8 +8,14 @@ p {
     color:rgb(175, 175, 175);
 }
 body {
-    background-color:rgb(30, 30, 30);
+    background-color:rgb(15, 15, 17);
 }
 a {
-    color: rgb(61, 61, 255);
+    color: rgb(125, 125, 236);
+}
+li {
+    color:white;
+}
+q {
+    color:rgb(175, 175, 175);
 }
