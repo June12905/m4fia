@@ -1,31 +1,39 @@
 h1 {
     color:rgb(175, 80, 80);
-    font-family:'Sans-serif'
+    font-family:'Sans-serif';
+    text-align: center;
 }
 h2 {
     color:rgb(225, 225, 225);
-    font-family:'Sans-serif'
+    font-family:'Sans-serif';
 }
 h3 {
     color:rgb(225, 225, 225);
-    font-family:'Sans-serif'
+    font-family:'Sans-serif';
 }
 p {
     color:rgb(175, 175, 175);
-    font-family:'Courier New'
+    font-family:'Courier New';
 }
 body {
-    background-color:rgb(15, 15, 17);
+    background-color:rgb(30,30,30);
 }
 a {
     color: rgb(125, 125, 236);
-    font-family:'Courier New'
+    font-family:'Courier New';
 }
 li {
     color:white;
-    font-family:'Courier New'
+    font-family:'Courier New';
 }
 q {
     color:rgb(175, 175, 175);
-    font-family:'Courier New'
+    font-family:'Courier New';
+}
+
+.container {
+    background-color:rgb(15, 15, 17);
+    width: 800px;
+    
+    margin: 0 auto
 }
