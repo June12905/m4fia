@@ -30,6 +30,12 @@ q {
     color:rgb(175, 175, 175);
     font-family:'Courier New';
 }
+body {
+    background-image: url('images/snow.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: cover;
+}
 .container {
     background-color:rgb(15, 15, 17);
     width: 600px;
